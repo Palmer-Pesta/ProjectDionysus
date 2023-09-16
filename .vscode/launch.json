@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JavaClass",
+            "request": "launch",
+            "mainClass": "packages.CoffeeOrder.JavaClass",
+            "projectName": "ProjectDionysus_530b8fe"
+        },
+        {
+            "type": "java",
+            "name": "JavaClass",
+            "request": "launch",
+            "mainClass": "java.CoffeeOrder.JavaClass",
+            "projectName": "ProjectDionysus_530b8fe"
+        },
+        {
+            "type": "java",
+            "name": "JavaClass",
+            "request": "launch",
+            "mainClass": "java.OrderProcessor.JavaClass",
+            "projectName": "ProjectDionysus_530b8fe"
+        },
+        {
+            "type": "java",
+            "name": "JavaClass",
+            "request": "launch",
+            "mainClass": "java.JavaClass",
+            "projectName": "ProjectDionysus_530b8fe"
+        }
+    ]
+}
